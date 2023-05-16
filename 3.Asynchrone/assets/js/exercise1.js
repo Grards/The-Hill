@@ -11,6 +11,5 @@ export function myFirstPromise(){
                 <li>${hero.name}</li>
             `
         }
-    
     })
 }
